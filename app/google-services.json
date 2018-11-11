@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "976546239327",
+    "firebase_url": "https://scri-2ecf0.firebaseio.com",
+    "project_id": "scri-2ecf0",
+    "storage_bucket": "scri-2ecf0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:976546239327:android:650dc1f9d7866160",
+        "android_client_info": {
+          "package_name": "com.example.sami.scri"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "976546239327-vds1hgki4mrtt4laullr1mvansufu4m3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sami.scri",
+            "certificate_hash": "ab06f6f782a9c1f7cc6468231b39ff2e7069c45b"
+          }
+        },
+        {
+          "client_id": "976546239327-0d33aohvrnnv2s81f63tkp9r0fe3433h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeHH_tqK8fn0JxKNGEYhxGjhzi4aSahTw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "976546239327-0d33aohvrnnv2s81f63tkp9r0fe3433h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">SCRI</string>
+    <string name="logoName"><![CDATA[Smart Crime \nReporter \n& \nInvestigation]]></string>
+    <string name="btnReport">Report a Crime</string>
+    <string name="btnSignIn">Sign In</string>
+    <string name="textSignInPage">Authorized User Only</string>
+    <string name="textEmail">Email</string>
+    <string name="textPassword">Password</string>
+    <string name="btnSignUp">Sign Up</string>
+    <string name="signInTitle">Authentication Process</string>
+    <string name="first_name">First Name</string>
+    <string name="name">Name</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="phone_no_01711999000">Phone No (01711999000)</string>
+    <string name="permanent_address">Permanent Address:</string>
+    <string name="postal_address">Postal Address</string>
+    <string name="code_name">Code Name</string>
+    <string name="email_codename">Email</string>
+    <string name="report_crime_to_us">Report Crime to Us</string>
+    <string name="twitterUsername">\@joeytribbiani</string>
+    <string name="samiul_azim">Samiul Azim</string>
+    <string name="change_profile_picture">change profile picture</string>
+    <string name="rank">rank</string>
+    <string name="_3">3</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="azim">Azim</string>
+    <string name="email">Email</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="gender">Gender</string>
+    <string name="address">Address</string>
+    <string name="post_zip_code">Post/Zip Code</string>
+    <string name="update_information">Update Information</string>
+</resources>
